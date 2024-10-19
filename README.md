@@ -1,4 +1,4 @@
-# E-Commerce Website (Mini Project)
+# E-Commerce Webapp (Mini Project)
 
 This project demonstrates an online shopping platform developed as a learning exercise. It utilizes Java, JDBC, and Bootstrap to showcase basic functionalities for both users and administrators. The implementation focuses on generic servlets.
 
